@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1666189813 source:c:\users\rehan\desktop\sem02final\main.cpp
+	<iostream>
+	<windows.h>
+	<MMsystem.h>
+	"Admin.h"
+	"Menu.h"
+	"Customer.h"
+	"MainScreen.h"
+
+1666189171 c:\users\rehan\desktop\sem02final\admin.h
+	"Customer.h"
+
+1666189158 c:\users\rehan\desktop\sem02final\customer.h
+	"Product.h"
+
+1666189155 c:\users\rehan\desktop\sem02final\product.h
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
+
+1666189166 c:\users\rehan\desktop\sem02final\menu.h
+	<iostream>
+
+1666189164 c:\users\rehan\desktop\sem02final\mainscreen.h
+	"Menu.h"
+	<windows.h>
+
